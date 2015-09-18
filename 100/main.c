@@ -1,5 +1,4 @@
 #include <stdio.h>
-#define NUMBER 4294967294
 
 int function(long n);
 
